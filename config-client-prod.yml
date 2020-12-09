@@ -6,4 +6,8 @@ spring:
     name: config-client # 应用名称
 
 # 自定义配置
-name: config-client-prod
+data:  
+  name: config-client-prod
+  user:
+    name: Nicky
+    pwd: 123456

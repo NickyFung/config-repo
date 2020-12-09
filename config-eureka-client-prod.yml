@@ -1,0 +1,6 @@
+data:  
+  # 自定义配置
+  name: config-eureka-client-prod
+  user:
+    name: Nicky
+    pwd: 123456
